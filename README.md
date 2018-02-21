@@ -34,8 +34,7 @@ The pet is running the Demo version due to failure to complete the main script s
 
 The interface is operational, and displays the counter mechanism I would use to determine the pets happiness in a form of a percentage gauge, which is split in to the 4 mode categories the pet displays.
 
+I had to remove the wires from the lithium battery and Pi for now, as it could damage the Pi by under-volting the power supply, which is necessary for the components to work. Plus it was a connecting them in the current state pose a safety risk, due to custom wires or connections being needed (the wires were being damaged from being bent).
 
 
 [**Backup of files on GitHub**](https://github.com/shadzig/DAC15203_4D_Design)
-
-
