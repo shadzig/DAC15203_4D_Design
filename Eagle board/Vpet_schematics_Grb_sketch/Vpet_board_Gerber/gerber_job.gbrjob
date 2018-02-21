@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.0*%
+%TF.CreationDate,2018-02-06T17:03:28Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Michail Dzigajev <m.dzigajev@students.rave.ac.uk>*%
+%TJ.B_ID,amp-7*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,39.040000*%
+%TJ.B_Size_Y,62.220000*%
+M02*
